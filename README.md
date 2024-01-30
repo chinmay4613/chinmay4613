@@ -18,7 +18,6 @@ The following year, I worked on another fascinating data science project. BARC m
 
 **Certificate of completion:** [Link](https://drive.google.com/file/d/16wCipwapY4HxfGwTYw9C0wD6106eSLVw/view?usp=sharing)
 
-Due to BARC's confidentiality policies, I was not allowed to publish the dataset, software, and code online.
 
 ## 🔭 I'm Currently...
 
