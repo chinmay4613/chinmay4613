@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to My Profile
 
 # I'm passionate about transforming ideas into powerful tech solutions! 
-
+I am a Software Engineer and a Computer Science graduate student at North Carolina State University, Raleigh; with a Bachelor's degree in Electrical and Electronics Engineering from Sardar Patel Institute of Technology, Mumbai.
 ## 🚀 What Sets Me Apart
 
 I put my data science knowledge to the test at BARC, India's premier research institute [BARC Website](https://www.barc.gov.in/#skip_to_main). I worked in the Radiopharmaceuticals division [Radiopharmaceuticals Division](https://www.barc.gov.in/group/72.html) under the supervision of B.G Avhad and Dr. Tapas Das. The main goal of my project was to automate the process of leak detection in heat exchangers and fault detection in distillation columns using data from radiotracers and gamma scans. 
