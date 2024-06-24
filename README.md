@@ -1,8 +1,9 @@
 ### Hi there 👋 Welcome to My Profile
 
 # I'm passionate about transforming ideas into powerful tech solutions! 
-I am a Software Engineer and a Computer Science graduate student at North Carolina State University, Raleigh; with a Bachelor's degree in Electrical and Electronics Engineering from Sardar Patel Institute of Technology, Mumbai.
+I am a Software Engineering Intern at Apple and a Computer Science graduate student at North Carolina State University, Raleigh; with a Bachelor's degree in Electrical and Electronics Engineering from Sardar Patel Institute of Technology, Mumbai.
 ## 🚀 What Sets Me Apart
+During my experience at Apple, I contributed to industry-leading machine learning automation tasks for outlier detection in Layer 1 controller software, has honed my ability to thrive in fast-paced, results-driven environments. Working on cutting-edge projects in such a prestigious company has equipped me with the skills to tackle complex problems and deliver innovative solutions efficiently.
 
 I put my data science knowledge to the test at BARC, India's premier research institute [BARC Website](https://www.barc.gov.in/#skip_to_main). I worked in the Radiopharmaceuticals division [Radiopharmaceuticals Division](https://www.barc.gov.in/group/72.html) under the supervision of B.G Avhad and Dr. Tapas Das. The main goal of my project was to automate the process of leak detection in heat exchangers and fault detection in distillation columns using data from radiotracers and gamma scans. 
 
@@ -21,7 +22,7 @@ The following year, I worked on another fascinating data science project. BARC m
 
 ## 🔭 I'm Currently...
 
-Taking a deeper dive into Neural Networks and Object-oriented design and development with Ruby on a larger scale, as apparent from my current projects on [Github](https://github.com/chinmay4613).
+Taking a deeper dive into Neural Networks and Object-oriented design and development, as apparent from my current projects on [Github](https://github.com/chinmay4613).
 
 Let's build the future together! If you're as passionate about tech, data science, and Software Engineering as I am, let's connect and explore the possibilities.
 
