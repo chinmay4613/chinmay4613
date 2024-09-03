@@ -3,7 +3,7 @@
 # I'm passionate about transforming ideas into powerful tech solutions! 
 I am an ex-SWE Intern at Apple and a Computer Science graduate student at North Carolina State University, Raleigh; with a Bachelor's degree in Electrical and Electronics Engineering from Sardar Patel Institute of Technology, Mumbai.
 ## 🍎 What Sets Me Apart
-At Apple, I made a significant impact as part of the Layer 1 Controller SCV Subcomponent Verification team by developing a cutting-edge anomaly detection system using unsupervised machine learning. This system was crucial in identifying False Positives in Apple's latest modem software, ensuring the accuracy and reliability of continuous integration processes.
+At Apple, I made a significant impact as part of the Layer 1 Controller SCV Subcomponent Verification team by developing an anomaly detection system using unsupervised machine learning. This system was crucial in identifying False Positives in Apple's latest modem software, ensuring the accuracy and reliability of continuous integration processes.
 
 My work automated the detection of potential issues, drastically reducing the manual effort required and mitigating the risk of costly post-launch problems. I also introduced user-friendly features, including visualization tools and adjustable thresholds, to enhance the precision of test result analysis.
 
